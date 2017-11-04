@@ -34,14 +34,8 @@ def get_keys():
 		keys.append('d')
 
 	return keys
-# This function is called every time a key is presssed
 
 def keys_to_output(keys):
-	'''
-	Convert keys to a ...multi-hot... array
-	 0  1  2  3  4   5   6   7    8
-	[W, S, A, D, WA, WD, SA, SD, NOKEY] boolean values.
-	'''
 	output = [0,0,0,0,0,0,0,0,0]
 
 	if 'w' in keys and 'a' in keys:
