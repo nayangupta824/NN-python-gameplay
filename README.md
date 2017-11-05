@@ -1,2 +1,2 @@
 # NN-python-gameplay
-http://www.y8.com/games/russian_car_driver_hd
+http://chat.kongregate.com/gamez/0015/2352/live/embeddable_152352.swf
